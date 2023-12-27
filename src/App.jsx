@@ -51,7 +51,7 @@ function App() {
   {
     plan:"PRO",
     price:150,
-    user: "unlimited Users",
+    user: "Unlimited Users",
     isUser:true,
     storage: "150GB Storage",
     isStorage:true,
